@@ -1,0 +1,8 @@
+.head1{
+    border: solid;
+    background-image:linear-gradient(to bottom right,rgb(115, 115, 255),rgb(255, 149, 167)) ;
+}
+html{
+    background-image: linear-gradient(to top,Red, Orange, Yellow, Green, Blue, Indigo, Violet);
+}
+
